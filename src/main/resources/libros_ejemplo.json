@@ -1,0 +1,72 @@
+[
+    {
+        "titulo": "Cien Anos de Soledad",
+        "autor": "Gabriel Garcia Marquez",
+        "anio_publicacion": 1967,
+        "genero": "Realismo magico",
+        "idioma": "Espanol"
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "anio_publicacion": 1605,
+        "genero": "Novela",
+        "idioma": "Espanol"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "anio_publicacion": 1949,
+        "genero": "Ciencia ficcion",
+        "idioma": "Ingles"
+    },
+    {
+        "titulo": "Moby Dick",
+        "autor": "Herman Melville",
+        "anio_publicacion": 1851,
+        "genero": "Aventura",
+        "idioma": "Ingles"
+    },
+    {
+        "titulo": "Crimen y Castigo",
+        "autor": "Fyodor Dostoevsky",
+        "anio_publicacion": 1866,
+        "genero": "Novela",
+        "idioma": "Ruso"
+    },
+    {
+        "titulo": "En busca del tiempo perdido",
+        "autor": "Marcel Proust",
+        "anio_publicacion": 1913,
+        "genero": "Novela",
+        "idioma": "Frances"
+    },
+    {
+        "titulo": "Ulises",
+        "autor": "James Joyce",
+        "anio_publicacion": 1922,
+        "genero": "Novela",
+        "idioma": "Ingles"
+    },
+    {
+        "titulo": "La Odisea",
+        "autor": "Homero",
+        "anio_publicacion": -800,
+        "genero": "Epopeya",
+        "idioma": "Griego"
+    },
+    {
+        "titulo": "Guerra y Paz",
+        "autor": "Leo Tolstoy",
+        "anio_publicacion": 1869,
+        "genero": "Novela",
+        "idioma": "Ruso"
+    },
+    {
+        "titulo": "La Divina Comedia",
+        "autor": "Dante Alighieri",
+        "anio_publicacion": 1320,
+        "genero": "Epopeya",
+        "idioma": "Italiano"
+    }
+]

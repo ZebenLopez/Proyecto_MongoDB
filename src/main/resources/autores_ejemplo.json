@@ -1,0 +1,121 @@
+[
+    {
+        "nombre": "Gabriel Garcia Marquez",
+        "nacimiento": "1927-03-06",
+        "nacionalidad": "Colombiano",
+        "generos": [
+            "Novela",
+            "Realismo magico"
+        ],
+        "obras_destacadas": [
+            "Cien Anos de Soledad",
+            "El Amor en los Tiempos del Colera"
+        ]
+    },
+    {
+        "nombre": "Miguel de Cervantes",
+        "nacimiento": "1547-09-29",
+        "nacionalidad": "Espanol",
+        "generos": [
+            "Novela"
+        ],
+        "obras_destacadas": [
+            "Don Quijote de la Mancha"
+        ]
+    },
+    {
+        "nombre": "George Orwell",
+        "nacimiento": "1903-06-25",
+        "nacionalidad": "Ingles",
+        "generos": [
+            "Novela",
+            "Ciencia ficcion"
+        ],
+        "obras_destacadas": [
+            "1984",
+            "Rebelion en la granja"
+        ]
+    },
+    {
+        "nombre": "Herman Melville",
+        "nacimiento": "1819-08-01",
+        "nacionalidad": "Estadounidense",
+        "generos": [
+            "Novela",
+            "Aventura"
+        ],
+        "obras_destacadas": [
+            "Moby Dick"
+        ]
+    },
+    {
+        "nombre": "Fyodor Dostoevsky",
+        "nacimiento": "1821-11-11",
+        "nacionalidad": "Ruso",
+        "generos": [
+            "Novela"
+        ],
+        "obras_destacadas": [
+            "Crimen y Castigo",
+            "Los Hermanos Karamazov"
+        ]
+    },
+    {
+        "nombre": "Marcel Proust",
+        "nacimiento": "1871-07-10",
+        "nacionalidad": "Frances",
+        "generos": [
+            "Novela"
+        ],
+        "obras_destacadas": [
+            "En busca del tiempo perdido"
+        ]
+    },
+    {
+        "nombre": "James Joyce",
+        "nacimiento": "1882-02-02",
+        "nacionalidad": "Irlandes",
+        "generos": [
+            "Novela"
+        ],
+        "obras_destacadas": [
+            "Ulises",
+            "Dublineses"
+        ]
+    },
+    {
+        "nombre": "Homero",
+        "nacimiento": "Siglo VIII a.C.",
+        "nacionalidad": "Griego",
+        "generos": [
+            "Epopeya"
+        ],
+        "obras_destacadas": [
+            "La Iliada",
+            "La Odisea"
+        ]
+    },
+    {
+        "nombre": "Leo Tolstoy",
+        "nacimiento": "1828-09-09",
+        "nacionalidad": "Ruso",
+        "generos": [
+            "Novela"
+        ],
+        "obras_destacadas": [
+            "Guerra y Paz",
+            "Ana Karenina"
+        ]
+    },
+    {
+        "nombre": "Dante Alighieri",
+        "nacimiento": "1265-05-21",
+        "nacionalidad": "Italiano",
+        "generos": [
+            "Epopeya"
+        ],
+        "obras_destacadas": [
+            "La Divina Comedia"
+        ]
+    }
+]
