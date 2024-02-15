@@ -70,13 +70,13 @@ public class InsertarLibros {
             MongoCollection<Document> collection = database.getCollection("Libros");
             Scanner scanner = new Scanner(System.in);
             String titulo, isbn, autor, genero, idioma;
-            int anio;
+            double anio;
             System.out.println("Introduce el título del libro:");
             titulo = scanner.nextLine();
             System.out.println("Introduce el autor del libro:");
             autor = scanner.nextLine();
             System.out.println("Introduce el año de publicación del libro:");
-            anio = scanner.nextInt();
+            anio = scanner.nextDouble();
             System.out.println("Introduce el género del libro:");
             scanner.nextLine();
             genero = scanner.nextLine();
