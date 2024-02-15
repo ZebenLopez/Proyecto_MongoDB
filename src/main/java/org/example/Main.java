@@ -20,13 +20,10 @@ public class Main {
         Main main = new Main();
         main.conectar();
     }
-
     /**
      * Método para conectar con el menú de selección.
      */
     private void conectar() {
-
-
         MenuSeleccion.menuSeleccion();
     }
 }
