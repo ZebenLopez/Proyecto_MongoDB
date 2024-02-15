@@ -77,7 +77,8 @@ public class InsertarLibros {
             autor = scanner.nextLine();
             System.out.println("Introduce el año de publicación del libro:");
             anio = scanner.nextInt();
-            System.out.println("Introduce el género de páginas del libro:");
+            System.out.println("Introduce el género del libro:");
+            scanner.nextLine();
             genero = scanner.nextLine();
             System.out.println("Introduce el idioma del libro:");
             idioma = scanner.nextLine();
